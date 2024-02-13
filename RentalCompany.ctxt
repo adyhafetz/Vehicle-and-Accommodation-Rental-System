@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RentalCompany
+comment1.params=
+comment1.target=RentalCompany()
+comment2.params=companyName\ companyLocation\ companyPhoneNo
+comment2.target=RentalCompany(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=newCompanyName\ newCompanyLocation\ newCompanyPhoneNo
+comment3.target=void\ setRentalCompany(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCompanyName()
+comment5.params=
+comment5.target=java.lang.String\ getCommpanyLocation()
+comment6.params=
+comment6.target=java.lang.String\ getCompanyPhoneNo()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=void\ displayCompanyList()
+comment9.params=
+comment9.target=void\ displayOption()
+numComments=10

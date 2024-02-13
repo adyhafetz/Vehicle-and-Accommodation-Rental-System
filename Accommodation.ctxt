@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Accommodation
+comment1.params=
+comment1.target=Accommodation()
+comment2.params=name\ phone\ ic\ company\ accommodationType\ accommodationDuration
+comment2.target=Accommodation(java.lang.String,\ java.lang.String,\ java.lang.String,\ RentalCompany,\ char,\ int)
+comment3.params=newAccommodationType\ newAccommodationDuration
+comment3.target=void\ setAccommodation(char,\ int)
+comment4.params=
+comment4.target=char\ getAccommodationType()
+comment5.params=
+comment5.target=int\ getAccommodationDuration()
+comment6.params=
+comment6.target=java.lang.String\ getAccommodationName()
+comment7.params=
+comment7.target=double\ getAccommodationPrice()
+comment8.params=
+comment8.target=double\ calcPrice()
+comment9.params=
+comment9.target=java.lang.String\ displayReceipt()
+numComments=10
